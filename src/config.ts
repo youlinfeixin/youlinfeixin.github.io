@@ -45,12 +45,12 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		{
 			name:"音乐",
-			url:"posts/music/",
+			url:"posts/menu-music",
 			
 		},
 		{
 			name:"视频",
-			url:"posts/testpost/",
+			url:"posts/menu-video",
 			
 		},
 		LinkPreset.About,
