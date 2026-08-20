@@ -1,12 +1,14 @@
 ---
 title: 友林飞心的音乐专辑
-published: 2024-12-01
+published: 2025-08-01
 description: "友林飞心的音乐专辑"
 image: "album/1.jpg"
 tags: ["音乐专辑", "灵性人生", "灵修"]
 category: 音乐专辑
 draft: false
 ---
+
+
 友林飞心的音乐专辑
 ![](album/1.jpg)
 ![](album/2.jpg)
