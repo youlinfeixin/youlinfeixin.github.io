@@ -2,7 +2,7 @@
 title: 友林的骑行世界【相册】
 published: 2025-08-01
 description: "我享受骑行时的畅快淋漓，喜欢大自然的风在脸颊与耳畔穿梭的痕迹与声音，享受破风勇往前行自由自在的感觉，每一次骑行都是一次心灵的旅程。"
-image: "images/toxqe7116.jpg"
+image: "images/img_3434.jpeg"
 tags: ["化二为一", "超越二元性", "灵修"]
 category: 友林感悟系列
 draft: false
