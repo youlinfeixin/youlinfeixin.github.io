@@ -1,9 +1,9 @@
 ---
 title: 友林飞心房车2.0版本【相册
-published: 2021-11-028
+published: 2021-11-28
 description: "友林和飞心亲手打造了第二辆房车，开启我们的灵性人生之旅。"
 image: "images/img_6080-1.jpg"
-tags: ["灵性人生", "房车改造"]
+tags: ["灵性人生","房车改造"]
 category: 友林飞心相册
 draft: false
 ---
