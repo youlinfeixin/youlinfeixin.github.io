@@ -2,7 +2,7 @@
 title: 老子悟道思想解析——道生一，一生二，二生三，三生万物
 published: 2020-08-12
 description: "本文探讨了灵性修持中如何破解“二元对立”的根源课题。作者借由初中数学题“如何在‘二’中间加一横变成‘一’”的逆向思维，提炼出超越二元矛盾的心法"
-image: "images/images/img_1270.jpg"
+image: "images/img_1270.jpg"
 tags: ["化二为一", "超越二元性", "老子", "悟道"]
 category: 友林感悟系列
 draft: false
