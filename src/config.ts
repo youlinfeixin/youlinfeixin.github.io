@@ -75,11 +75,6 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:steam",
 			url: "https://store.steampowered.com",
 		},
-		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
-		},
 	],
 };
 
