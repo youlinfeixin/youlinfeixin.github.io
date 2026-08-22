@@ -58,14 +58,14 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "聚合名片",
-			icon: "material-icon-theme:apiblueprint", // Visit https://icones.js.org/ for icon codes
+			icon: "material-symbols:contact-page", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://me.ylfx.net/",
 		},
 		{
 			name: "给我们写信",
-			icon: "material-icon-theme:email",
+			icon: "material-symbols:mail-outline-rounded",
 			url: "mailto:youlinfx@163.com",
 		},
 	],
