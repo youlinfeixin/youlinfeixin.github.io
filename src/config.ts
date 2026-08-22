@@ -45,6 +45,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		LinkPreset.Music,
 		LinkPreset.Video,
+		LinkPreset.Youlin,
 		LinkPreset.About,
 
 	],

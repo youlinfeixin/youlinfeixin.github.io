@@ -1,0 +1,13 @@
+---
+import PostPage from "@components/PostPage.astro";
+import MainGridLayout from "@layouts/MainGridLayout.astro";
+import { getSortedPosts } from "@utils/content-utils";
+
+const posts = (await getSortedPosts()).filter(
+	(entry) => entry.data.category === "友林感悟系列",
+);
+---
+
+<MainGridLayout title="友林感悟系列" description="友林感悟系列">
+	<PostPage page={{ data: posts }} />
+</MainGridLayout>
