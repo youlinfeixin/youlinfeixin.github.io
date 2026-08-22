@@ -43,9 +43,9 @@ export const navBarConfig: NavBarConfig = {
 	links: [
 		LinkPreset.Home,
 		LinkPreset.Archive,
+		LinkPreset.Youlin,
 		LinkPreset.Music,
 		LinkPreset.Video,
-		LinkPreset.Youlin,
 		LinkPreset.About,
 
 	],
@@ -73,8 +73,8 @@ export const profileConfig: ProfileConfig = {
 
 export const licenseConfig: LicenseConfig = {
 	enable: true,
-	name: "CC BY-NC-SA 4.0",
-	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+	name: "注明作者，保留出处",
+	url: "https://www.ylfx.net/about/",
 };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
