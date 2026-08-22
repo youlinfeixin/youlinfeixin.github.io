@@ -20,19 +20,11 @@ draft: false
 
 ![](images/fullsizerender.jpeg)
 
-![](images/8e43064d3a2a4f9d423d6a13bba37761.jpeg)
-
-![](images/img_8301.jpeg)
-
 ![](images/img_8451.jpeg)
-
-![](images/img_8491.jpeg)
 
 ![](images/img_8462.jpeg)
 
 ![](images/img_9293.jpeg)
-
-![](images/img_9301.jpeg)
 
 ![](images/img_9479.jpeg)
 
@@ -49,8 +41,6 @@ draft: false
 ![](images/img_1723.jpeg)
 
 ![](images/img_1755.jpeg)
-
-![](images/img_1758.jpeg)
 
 ![](images/img_2343.jpeg)
 
@@ -69,6 +59,7 @@ draft: false
 ![](images/img_3397.jpeg)
 
 ![](images/img_3911.jpeg)
+![](images/img_1758.jpeg)
 
 ![](images/img_3477.jpeg)
 
@@ -158,8 +149,6 @@ draft: false
 
 ![](images/ca89dc31878538f22795ab37e7d84b68.jpg)
 
-![](images/54d97a585b2008846ce0f52556ed3181.jpg)
-
 ![](images/img_6123.jpg)
 
 ![](images/img_1050.jpeg)
@@ -176,7 +165,6 @@ draft: false
 
 ![](images/fullsizerender-1.jpeg)
 
-![](images/img_1176.jpeg)
 
 ![](images/img_2500.jpeg)
 
@@ -184,11 +172,9 @@ draft: false
 
 ![](images/img_2569.jpeg)
 
-![](images/img_2503.jpeg)
 
 ![](images/img_9861.jpeg)
 
-![](images/img_2699.jpeg)
 
 ![](images/img_2630.jpeg)
 
@@ -218,7 +204,6 @@ draft: false
 
 ![](images/img_3441.jpeg)
 
-![](images/img_2857.jpeg)
 
 ![](images/img_3502.jpeg)
 
@@ -227,8 +212,6 @@ draft: false
 ![](images/img_2910.jpeg)
 
 ![](images/img_3450.jpeg)
-
-![](images/img_3452.jpeg)
 
 ![](images/img_3506.jpeg)
 
