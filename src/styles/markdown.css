@@ -1,5 +1,5 @@
 .custom-md {
-    font-size: 18px;
+
     h1 {
         @apply text-3xl;
     }
