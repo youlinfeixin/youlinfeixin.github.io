@@ -44,11 +44,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.Music,
-		{
-			name:"视频",
-			url:"posts/menu-video",
-			
-		},
+		LinkPreset.Video,
 		LinkPreset.About,
 
 	],

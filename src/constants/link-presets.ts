@@ -15,6 +15,10 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		name: "音乐专辑",
 		url: "/music/",
 	},
+	[LinkPreset.Video]: {
+		name: "视频",
+		url: "/video/",
+	},
 	[LinkPreset.Archive]: {
 		name: i18n(I18nKey.archive),
 		url: "/archive/",
