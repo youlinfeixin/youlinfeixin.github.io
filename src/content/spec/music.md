@@ -10,7 +10,7 @@
 
 ## 专辑：《同得自由》（Together We Are Free）
 《同得自由》是友林飞心创作并发行的首张数字概念音乐专辑，以“一体性”与内在觉醒为主题。专辑由十首作品组成，融合温暖、呼唤与内省的音乐风格，并加入二胡、笛子、古琴、中国鼓等中国古典音乐元素，呈现人类从迷惘、伤痛与自我遗忘，走向觉醒、宽恕、释放与重拾力量的心灵旅程。
-![《同得自由》（Together We Are Free）]((/images/album/1.jpg) "《同得自由》（Together We Are Free）")
+![《同得自由》（Together We Are Free）](/images/album/1.jpg "《同得自由》（Together We Are Free）")
 - **《同得解脱》（Together We Are Free）**：以自由与解脱为起点，表达个体挣脱束缚、与生命整体重新连接的愿望。
 - **《记起自己》（Awakening Within）**：描写在迷惘之中回望内心，逐渐记起真实自我的过程。
 - **《在梦醒的光里》（In the Light of Awakening）**：呈现意识从沉睡走向清明，在觉醒之光中看见新的方向。
