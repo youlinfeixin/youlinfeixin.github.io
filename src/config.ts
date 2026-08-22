@@ -52,21 +52,21 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/pinklake.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "assets/images/profile.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "友林飞心",
-	bio: "灵性成长 · 心灵觉醒 · 无极之道的生活方式",
+	bio: "灵性修行者，网易音乐人，专注灵性成长，心灵觉醒，生活中实修，遵循无极之道的灵性生活方式。",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "聚合名片",
+			icon: "material-icon-theme:apiblueprint", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://me.ylfx.net",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "给我们写信",
+			icon: "material-icon-theme:email",
+			url: "mailto:youlinfx@163.com",
 		},
 	],
 };
