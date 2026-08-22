@@ -5,7 +5,7 @@ description: "感恩我们的真诚，感恩我们的单纯，感恩我们的勇
 image: "images/img_8250.jpeg"
 tags: ["我们的爱", "灵性人生"]
 category: 友林飞心相册
-draft: false
+draft: true
 ---
 
 自从2012年在网络上结识，到2014年8月第一次踏上澳洲与飞心相聚，再到2015年结婚，相识十三年，相聚十一年，结婚十年。

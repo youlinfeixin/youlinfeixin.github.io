@@ -2,7 +2,7 @@
 title: 豪勋爵岛Lord Howe Island 2023.10【相册】
 published: 2023-10-31
 description: "豪勋爵岛是一座太平洋中的被列入世界遗产保护的梦幻岛屿。岛屿不大，有绝美的海景，与仙境般的山境，两者真是绝配！"
-image: "images/img_4928.jpeg"
+image: "images/img_4306.jpeg"
 tags: ["海岛旅行", "灵性人生"]
 category: 友林飞心相册
 draft: false
