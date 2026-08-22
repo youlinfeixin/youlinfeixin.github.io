@@ -16,7 +16,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		url: "/music/",
 	},
 	[LinkPreset.Video]: {
-		name: "视频",
+		name: "视频TV",
 		url: "/video/",
 	},
 	[LinkPreset.Youlin]: {
