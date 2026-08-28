@@ -12,7 +12,7 @@
 
 属于我们的传奇，在继续书写，这是一如既往关于爱的篇章......
 
-           ——爱天使 · 2025.8
+<p style="text-align: right;">—— 爱天使 · 2025.8</p>
 
 ![](../posts/images/img_6635.jpeg)
 ![](../posts/images/img_6632.jpeg)
