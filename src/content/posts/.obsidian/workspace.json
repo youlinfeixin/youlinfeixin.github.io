@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kanjian.md",
+                "file": "lead.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "kanjian"
+              "title": "lead"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanjian.md",
+                "file": "lead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanjian.md",
+                "file": "lead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanjian.md",
+                "file": "lead.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,12 +190,14 @@
   },
   "active": "7852142de50d5f79",
   "lastOpenFiles": [
+    "laozi.md",
+    "kongkong.md",
+    "kanjian.md",
     "images/IMG_2079.jpg",
     "images/IMG_3584.jpg",
     "images/IMG_2652.jpg",
     "images/IMG_2126.jpg",
     "images/IMG_2079 2.jpg",
-    "laozi.md",
     "lingxiu.md"
   ]
 }
