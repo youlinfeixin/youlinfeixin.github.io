@@ -16,11 +16,25 @@ draft: false
 2023年当我决定买Garmin铁人三项手表时，我就知道我会继续骑行。  
 我享受骑行时的畅快淋漓，喜欢大自然的风在脸颊与耳畔穿梭的痕迹与声音，享受破风勇往前行自由自在的感觉，每一次骑行都是一次心灵的旅程。
 
+![](images/IMG_2079.jpg)
+
+![](images/img_9065.jpeg)
+
+![](images/img_4513.jpeg)
+
+![](images/34c0816b-639d-4d04-8c92-faa91dba2276.jpg)
+
+![](images/img_8629.jpeg)
+![](images/img_3502.jpeg)
+![](images/img_2562.jpeg)
+![](images/img_9017.jpeg)
+![](images/img_5014.jpeg)
+![](images/img_7785.jpeg)
+
 ![](images/img_6638.jpg)
 
-![](images/fullsizerender.jpeg)
+![](images/img_0272.jpeg)
 
-![](images/img_8451.jpeg)
 
 ![](images/img_8462.jpeg)
 
@@ -69,7 +83,7 @@ draft: false
 
 ![](images/img_4493.jpeg)
 
-![](images/img_4513.jpeg)
+
 
 ![](images/img_4530.jpeg)
 
@@ -81,6 +95,8 @@ draft: false
 
 ![](images/img_5173.jpeg)
 
+![](images/IMG_2126.jpg)
+
 ![](images/img_9923.jpeg)
 
 ![](images/img_5792.jpeg)
@@ -91,13 +107,11 @@ draft: false
 
 ![](images/img_7536.png)
 
+![](images/IMG_3584.jpg)
+
 ![](images/img_7753.jpeg)
 
-![](images/img_7785.jpeg)
 
-![](images/34c0816b-639d-4d04-8c92-faa91dba2276.jpg)
-
-![](images/img_8629.jpeg)
 
 ![](images/img_5640.jpeg)
 
@@ -109,7 +123,7 @@ draft: false
 
 ![](images/img_8971.jpeg)
 
-![](images/img_9017.jpeg)
+![](images/IMG_2652.jpg)
 
 ![](images/img_9068.jpeg)
 
@@ -121,17 +135,16 @@ draft: false
 
 ![](images/img_9033.jpeg)
 
-![](images/img_9065.jpeg)
-
 ![](images/img_9203.jpeg)
 
 ![](images/img_9900.jpeg)
+
+![](images/img_8451.jpeg)
 
 ![](images/img_0004.jpeg)
 
 ![](images/img_0184.jpeg)
 
-![](images/img_0317.jpeg)
 
 ![](images/img_0318.jpeg)
 
@@ -165,6 +178,7 @@ draft: false
 
 ![](images/fullsizerender-1.jpeg)
 
+![](images/fullsizerender.jpeg)
 
 ![](images/img_2500.jpeg)
 
@@ -205,8 +219,6 @@ draft: false
 ![](images/img_3441.jpeg)
 
 
-![](images/img_3502.jpeg)
-
 ![](images/img_2905.jpeg)
 
 ![](images/img_2910.jpeg)
@@ -220,8 +232,6 @@ draft: false
 ![](images/img_5060.jpeg)
 
 ![](images/img_5051.jpeg)
-
-![](images/img_5014.jpeg)
 
 ![](images/img_5118.jpeg)
 
