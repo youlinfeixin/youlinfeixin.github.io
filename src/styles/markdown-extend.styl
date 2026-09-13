@@ -33,9 +33,9 @@
     &.bdm-note
       margin: 1.5rem 0
       padding: 1rem 1.25rem
-      border-top: 1px solid color-mix(in srgb, var(--admonitions-color-note) 45%, transparent)
-      border-bottom: 1px solid color-mix(in srgb, var(--admonitions-color-note) 45%, transparent)
-      background: color-mix(in srgb, var(--admonitions-color-note) 8%, transparent)
+      border-top: 1px solid var(--line-divider)
+      border-bottom: 1px solid var(--line-divider)
+      background: var(--btn-plain-bg-hover)
 
       &:before
         display: none
@@ -47,8 +47,6 @@
         &:before
           display: none
 
-      &:before
-        background: var(--admonitions-color-note)
     &.bdm-important
       .bdm-title
         color: var(--admonitions-color-important)
